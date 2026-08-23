@@ -58,3 +58,18 @@ Instead of attaching individual properties and style handlers across multiple bu
 ```csharp
 // Dynamic sender casting for unified property management
 this.sender = (Control)sender;
+
+## 📥 Installation & How to Run
+
+### ⚙️ Prerequisites
+* **Visual Studio 2019** or newer.
+* **.NET Framework 4.8** or higher.
+
+---
+
+### 🚀 Getting Started
+
+#### Option 1: Clone via Git (Recommended)
+1. Open your terminal or Command Prompt and run:
+   ```bash
+   git clone [https://github.com/aimanameenmohammed/Simple-Calculator.git](https://github.com/aimanameenmohammed/Simple-Calculator.git)
