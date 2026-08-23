@@ -60,7 +60,7 @@ Instead of attaching individual properties and style handlers across multiple bu
 this.sender = (Control)sender;
 
 ```
-ذذ
+
 --
 ## 📥 Installation & How to Run
 
@@ -68,7 +68,6 @@ this.sender = (Control)sender;
 * **Visual Studio 2019** or newer.
 * **.NET Framework 4.8** or higher.
 
----
 
 ### 🚀 Getting Started
 
