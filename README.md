@@ -58,7 +58,7 @@ Instead of attaching individual properties and style handlers across multiple bu
 ```csharp
 // Dynamic sender casting for unified property management
 this.sender = (Control)sender;
-
+--
 ## 📥 Installation & How to Run
 
 ### ⚙️ Prerequisites
