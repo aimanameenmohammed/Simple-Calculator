@@ -58,6 +58,9 @@ Instead of attaching individual properties and style handlers across multiple bu
 ```csharp
 // Dynamic sender casting for unified property management
 this.sender = (Control)sender;
+
+```
+ذذ
 --
 ## 📥 Installation & How to Run
 
@@ -72,4 +75,4 @@ this.sender = (Control)sender;
 #### Option 1: Clone via Git (Recommended)
 1. Open your terminal or Command Prompt and run:
    ```bash
-   git clone [https://github.com/aimanameenmohammed/Simple-Calculator.git](https://github.com/aimanameenmohammed/Simple-Calculator.git)
+   git clone [https://github.com/aimanameenmohammed/Simple-Calculator.git]
