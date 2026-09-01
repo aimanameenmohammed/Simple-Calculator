@@ -15,6 +15,7 @@
 [✨ Key Features](#-key-features) •
 [📸 Screenshot](#-screenshot) •
 [💡 Technical Highlights](#-technical-highlights) •
+[📅 Development Timeline](#-development-timeline) •
 [🚀 Getting Started](#-getting-started) •
 [📞 Connect With Me](#-connect-with-me)
 
@@ -60,6 +61,23 @@ Instead of attaching individual properties and style handlers across multiple bu
 this.sender = (Control)sender;
 
 ```
+---
+
+
+
+## 📅 Development Timeline
+
+
+| Milestone | Date |
+| :--- | :--- |
+| 🚀 **Started** | March 28, 2026 |
+| ✅ **Completed** | March 30, 2026 |
+| ⏱️ **Development Period** | 2 Days |
+
+
+> **Note:** These dates represent the actual development period of the project, not the date it was uploaded to GitHub.
+
+
 ---
 ## 📥 Installation & How to Run
 
